@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ekg:home|Door43 (ekg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ekg|d43-ekg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ekg/archive/master.zip|d43-ekg.zip]]
+
+**Recent Changes**
+{{changes>ns = ekg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ekg|Ethnologue data]]
+
